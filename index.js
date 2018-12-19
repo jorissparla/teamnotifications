@@ -12,7 +12,7 @@ const notifications = [
     { team: 'LOG', region: 'EMEA', codes: ['RT1'] },
     { team: 'FIN', region: 'EMEA', codes: ['Q1', 'Q'] },
     { team: 'BI-dEPM', region: 'EMEA', codes: ['Q1', 'Q'] },
-    { team: 'TECHSTACK', region: 'EMEA', codes: ['Q1', 'Q'] },
+    { team: 'TECHSTACK', region: 'EMEA', codes: ['TQ1', 'TQ'] },
     { team: 'EAM', region: 'EMEA', codes: ['Q1E', 'QE'] }
   ],
   [
@@ -20,7 +20,7 @@ const notifications = [
     { team: 'LOG', region: 'EMEA', codes: ['RT2'] },
     { team: 'FIN', region: 'EMEA', codes: ['Q2', 'Q'] },
     { team: 'BI-dEPM', region: 'EMEA', codes: ['Q2', 'Q'] },
-    { team: 'TECHSTACK', region: 'EMEA', codes: ['Q2', 'Q'] },
+    { team: 'TECHSTACK', region: 'EMEA', codes: ['TQ2', 'TQ'] },
     { team: 'EAM', region: 'EMEA', codes: ['Q2E', 'QE'] }
   ]
 ];
